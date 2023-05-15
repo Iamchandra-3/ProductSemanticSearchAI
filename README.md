@@ -1,5 +1,7 @@
 ### ProductSemanticSearchAI
 
+## DEMO LINK [https://youtu.be/Ai991Ywr664]
+
 ## project assignment from MERCOR [https://work.mercor.io/projects.html]
 # Semantic Search Engine using AI
 
